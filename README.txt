@@ -6,3 +6,6 @@ data which depict a rise in inflation adjusted standard deviation between 2010
 and 2017 of 19.5% and an average increase of 13.5%. In addition to that, there
 is a trend that lower priced housing vanishes and the distribution of rental prices
 develops a right handed heavy tail.
+
+
+__To be refactored__
